@@ -82,3 +82,12 @@ static: certificate has an existing certificate-key pair that was previously imp
 
 ## Crash Handler
 You can enable the crash handler by setting the environment variable `AWS_CRT_CRASH_HANDLER=1`. This will print the callstack to `stderr` in the event of a fatal error.
+
+### [Contact an Author]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
